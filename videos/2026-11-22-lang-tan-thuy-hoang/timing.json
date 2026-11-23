@@ -1,0 +1,270 @@
+{
+  "durationSeconds": 600,
+  "fps": 24,
+  "voiceTempo": 1.2119044753537471,
+  "voice": "Nhật Phong · local VieNeu",
+  "shots": [
+    {
+      "id": "hook",
+      "title": "Hai địa điểm trong cùng một khu lăng",
+      "start": 0,
+      "frames": 596,
+      "cues": [
+        0,
+        198,
+        408
+      ]
+    },
+    {
+      "id": "scope",
+      "title": "Cách đọc hình ảnh trong video",
+      "start": 596,
+      "frames": 430,
+      "cues": [
+        0,
+        216
+      ]
+    },
+    {
+      "id": "who",
+      "title": "Tần Thủy Hoàng là ai?",
+      "start": 1026,
+      "frames": 620,
+      "cues": [
+        0,
+        181,
+        396
+      ]
+    },
+    {
+      "id": "map",
+      "title": "Từ Tây An đến chân núi Ly Sơn",
+      "start": 1646,
+      "frames": 565,
+      "cues": [
+        0,
+        190,
+        368
+      ]
+    },
+    {
+      "id": "complex",
+      "title": "Cả một quần thể dưới mặt đất",
+      "start": 2211,
+      "frames": 630,
+      "cues": [
+        0,
+        199,
+        412
+      ]
+    },
+    {
+      "id": "discovery",
+      "title": "Từ giếng nước đến cuộc khai quật",
+      "start": 2841,
+      "frames": 555,
+      "cues": [
+        0,
+        185,
+        357
+      ]
+    },
+    {
+      "id": "pit1",
+      "title": "Hố số một và những hàng tượng",
+      "start": 3396,
+      "frames": 602,
+      "cues": [
+        0,
+        201,
+        400
+      ]
+    },
+    {
+      "id": "pit2",
+      "title": "Hố số hai có nhiều đội hình",
+      "start": 3998,
+      "frames": 598,
+      "cues": [
+        0,
+        189,
+        397
+      ]
+    },
+    {
+      "id": "pit3",
+      "title": "Hố số ba nhỏ hơn",
+      "start": 4596,
+      "frames": 598,
+      "cues": [
+        0,
+        212,
+        412
+      ]
+    },
+    {
+      "id": "faces",
+      "title": "Nhìn gần một binh sĩ đất nung",
+      "start": 5194,
+      "frames": 604,
+      "cues": [
+        0,
+        183,
+        391
+      ]
+    },
+    {
+      "id": "making",
+      "title": "Tượng được làm từ đất như thế nào?",
+      "start": 5798,
+      "frames": 590,
+      "cues": [
+        0,
+        192,
+        400
+      ]
+    },
+    {
+      "id": "color",
+      "title": "Đội quân từng có màu",
+      "start": 6388,
+      "frames": 622,
+      "cues": [
+        0,
+        196,
+        408
+      ]
+    },
+    {
+      "id": "craft",
+      "title": "Dấu vết của cách tổ chức sản xuất",
+      "start": 7010,
+      "frames": 661,
+      "cues": [
+        0,
+        218,
+        452
+      ]
+    },
+    {
+      "id": "chariot",
+      "title": "Xe ngựa đồng trong khu lăng",
+      "start": 7671,
+      "frames": 628,
+      "cues": [
+        0,
+        225,
+        410
+      ]
+    },
+    {
+      "id": "other",
+      "title": "Ngoài quân đội còn những gì?",
+      "start": 8299,
+      "frames": 690,
+      "cues": [
+        0,
+        232,
+        475
+      ]
+    },
+    {
+      "id": "mound",
+      "title": "Gò lăng nhìn từ trên xuống",
+      "start": 8989,
+      "frames": 615,
+      "cues": [
+        0,
+        221,
+        405
+      ]
+    },
+    {
+      "id": "chronicle",
+      "title": "Tư Mã Thiên đã ghi gì?",
+      "start": 9604,
+      "frames": 615,
+      "cues": [
+        0,
+        201,
+        416
+      ]
+    },
+    {
+      "id": "mercury",
+      "title": "Phép đo thủy ngân nói được gì?",
+      "start": 10219,
+      "frames": 612,
+      "cues": [
+        0,
+        215,
+        399
+      ]
+    },
+    {
+      "id": "survey",
+      "title": "Khảo sát từ mặt đất",
+      "start": 10831,
+      "frames": 625,
+      "cues": [
+        0,
+        223,
+        418
+      ]
+    },
+    {
+      "id": "conserve",
+      "title": "Vì sao phải chuẩn bị trước khi mở?",
+      "start": 11456,
+      "frames": 639,
+      "cues": [
+        0,
+        209,
+        427
+      ]
+    },
+    {
+      "id": "restore",
+      "title": "Từ mảnh vỡ đến tượng trưng bày",
+      "start": 12095,
+      "frames": 633,
+      "cues": [
+        0,
+        207,
+        407
+      ]
+    },
+    {
+      "id": "unesco",
+      "title": "Từ di chỉ đến di sản thế giới",
+      "start": 12728,
+      "frames": 617,
+      "cues": [
+        0,
+        202,
+        391
+      ]
+    },
+    {
+      "id": "recap",
+      "title": "Ta biết đến đâu về lăng Tần Thủy Hoàng?",
+      "start": 13345,
+      "frames": 629,
+      "cues": [
+        0,
+        220,
+        414
+      ]
+    },
+    {
+      "id": "cta",
+      "title": "Bạn muốn xem tiếp phần nào?",
+      "start": 13974,
+      "frames": 426,
+      "cues": [
+        0,
+        193
+      ]
+    }
+  ]
+}

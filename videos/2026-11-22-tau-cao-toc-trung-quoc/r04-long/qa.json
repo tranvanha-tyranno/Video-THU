@@ -1,0 +1,28 @@
+{
+  "frames": 7200,
+  "fps": 24,
+  "durationSeconds": 300.0,
+  "audio": {
+    "integratedLUFS": -16.7,
+    "truePeakDBTP": -4.8
+  },
+  "mono": {
+    "integratedLUFS": -16.7,
+    "truePeakDBTP": -4.8
+  },
+  "samples": [
+    "hook",
+    "disclaimer",
+    "overview",
+    "regional",
+    "stops",
+    "distance",
+    "time",
+    "profile",
+    "land",
+    "signal",
+    "girder",
+    "cta"
+  ],
+  "sha256": "0e1a2249862ebaee76d9f193d989559d51cac4e1852877db78927555143ab0f5"
+}

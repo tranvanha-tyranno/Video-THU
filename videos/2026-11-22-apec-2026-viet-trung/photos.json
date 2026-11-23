@@ -1,0 +1,100 @@
+{
+  "apec2026": {
+    "page": "https://commons.wikimedia.org/wiki/File:33rd_APEC_Economic_Leaders%27_Meeting_%28APEC_China_2026%29_group_photo.jpg",
+    "author": "Presidential Communications Office (PH)",
+    "license": "Public domain",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/33rd_APEC_Economic_Leaders%27_Meeting_%28APEC_China_2026%29_group_photo.jpg/1280px-33rd_APEC_Economic_Leaders%27_Meeting_%28APEC_China_2026%29_group_photo.jpg",
+    "sha256": "68966f0106ca4577ee524b52679affd723d11de6a827f75f9c85349c2875c6fb"
+  },
+  "shenzhen": {
+    "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Futian_District_in_2018.5.jpg",
+    "author": "Sparktour",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Skyline_of_Futian_District_in_2018.5.jpg/1280px-Skyline_of_Futian_District_in_2018.5.jpg",
+    "sha256": "05151ad36e4e5c1c180101c47659758c91170731cb1cef9262a2aacbde5475da"
+  },
+  "civic": {
+    "page": "https://commons.wikimedia.org/wiki/File:Night_of_Civic_Center_Shenzhen_from_Lianhua_Mountain.jpg",
+    "author": "Sparktour",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Night_of_Civic_Center_Shenzhen_from_Lianhua_Mountain.jpg/1280px-Night_of_Civic_Center_Shenzhen_from_Lianhua_Mountain.jpg",
+    "sha256": "4a3e9ba32dbb27c1f481f202c5d93f40b7df93628827b156b79c7e265b036b62"
+  },
+  "gba": {
+    "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Shenzhen_Bay_Port_From_the_South.jpg",
+    "author": "Charlie fong",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Skyline_of_Shenzhen_Bay_Port_From_the_South.jpg/1280px-Skyline_of_Shenzhen_Bay_Port_From_the_South.jpg",
+    "sha256": "dbd3b46fd0a265d12eb057f78acc451de8eac2a3617c8c7dc53a175b1bf819dc"
+  },
+  "hanoi": {
+    "page": "https://commons.wikimedia.org/wiki/File:Hanoi_Skyline_-_NKS.jpg",
+    "author": "NKSTTSSHNVN",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Hanoi_Skyline_-_NKS.jpg/1280px-Hanoi_Skyline_-_NKS.jpg",
+    "sha256": "1c9d0ee6855f9487719d9534062e7ae6ed7c627250334adc9a0df06f2f6f9528"
+  },
+  "palace": {
+    "page": "https://commons.wikimedia.org/wiki/File:Presidential_Palace%2C_Hanoi%2C_Vietnam.jpg",
+    "author": "RB Photo",
+    "license": "CC BY 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Presidential_Palace%2C_Hanoi%2C_Vietnam.jpg/1280px-Presidential_Palace%2C_Hanoi%2C_Vietnam.jpg",
+    "sha256": "8783ad937d54efb3400d87a3eb55f01e237fdd11efccae293fc7f3992c7a4ecb"
+  },
+  "greathall": {
+    "page": "https://commons.wikimedia.org/wiki/File:Great_Hall_of_the_People_%2820200825114146%29.jpg",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Great_Hall_of_the_People_%2820200825114146%29.jpg/1280px-Great_Hall_of_the_People_%2820200825114146%29.jpg",
+    "sha256": "9daa238f70061d018ac703c0dd2aea34234582cebe67872aa6ba8475783da73b"
+  },
+  "haiphong": {
+    "page": "https://commons.wikimedia.org/wiki/File:Container_Ship_at_the_Hai_Phong_International_Container_Terminal_01.jpg",
+    "author": "Nathan.cima",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Container_Ship_at_the_Hai_Phong_International_Container_Terminal_01.jpg/1280px-Container_Ship_at_the_Hai_Phong_International_Container_Terminal_01.jpg",
+    "sha256": "e84f60fbc42339648dabc402c03d581d17293e7490fa3bb42c872a221dda61f7"
+  },
+  "border": {
+    "page": "https://commons.wikimedia.org/wiki/File:The_main_gate_of_Friendship_Pass_in_China.jpg",
+    "author": "TSVC1190",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/The_main_gate_of_Friendship_Pass_in_China.jpg/1280px-The_main_gate_of_Friendship_Pass_in_China.jpg",
+    "sha256": "3a436fc94c3582edcb69661d7a196138c7fb7ebfa08d12e271cca1af30bd4b7c"
+  },
+  "laocai": {
+    "page": "https://commons.wikimedia.org/wiki/File:Hekou-Lao_Cai_Bridge_-_P1380381.JPG",
+    "author": "Vmenkov",
+    "license": "CC BY-SA 3.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hekou-Lao_Cai_Bridge_-_P1380381.JPG/1280px-Hekou-Lao_Cai_Bridge_-_P1380381.JPG",
+    "sha256": "fa515f47b199c7eac3a55463fc60114b89cd906a0d5ad79d5ee717dd88c075c2"
+  },
+  "train": {
+    "page": "https://commons.wikimedia.org/wiki/File:CR400AF-2001%40BJN_%2820170626110730%29.jpg",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/CR400AF-2001%40BJN_%2820170626110730%29.jpg/1280px-CR400AF-2001%40BJN_%2820170626110730%29.jpg",
+    "sha256": "c6e7afae5c9e8152fcf5460188ce5734d9435989e38217e7ebba115c463f81a7"
+  },
+  "durian": {
+    "page": "https://commons.wikimedia.org/wiki/File:Durian_fruit_opened_PJ_DSC_0802.jpg",
+    "author": "Kembangraps",
+    "license": "CC0 1.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Durian_fruit_opened_PJ_DSC_0802.jpg/1280px-Durian_fruit_opened_PJ_DSC_0802.jpg",
+    "sha256": "0f01e606d8cf13e5e000f645a2dba32a9ccc7eddc8b76ffc09b30aaa341381bb"
+  },
+  "phuquoc": {
+    "page": "https://commons.wikimedia.org/wiki/File:Kem_Beach_aerial_view_Phu_Quoc_Island_Vietnam.jpg",
+    "author": "Vivu Vietnam",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Kem_Beach_aerial_view_Phu_Quoc_Island_Vietnam.jpg/1280px-Kem_Beach_aerial_view_Phu_Quoc_Island_Vietnam.jpg",
+    "sha256": "fbfd19775c860d76bcf6d7d5573a2ea57680af32e39b0bebf0afa77e96a35ac6"
+  },
+  "pqairport": {
+    "page": "https://commons.wikimedia.org/wiki/File:Phu_Quoc_International_Airport_at_night.jpg",
+    "author": "FrogsLegs71",
+    "license": "CC BY-SA 3.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Phu_Quoc_International_Airport_at_night.jpg/1280px-Phu_Quoc_International_Airport_at_night.jpg",
+    "sha256": "aeb3336487dfa8ee21324616f924d0a52d2c819deaf68cc772504569d80672c1"
+  }
+}

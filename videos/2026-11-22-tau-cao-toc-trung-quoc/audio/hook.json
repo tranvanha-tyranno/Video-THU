@@ -1,0 +1,182 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Ba trăm năm mươi ki lô mét một giờ, gần một trăm mét mỗi giây. Để chạy nhanh như vậy, đoàn tàu cần gì ngoài một động cơ khỏe?",
+  "sha256": "36910b5809ba9f816d3fa8e8c43c3ab5b4c443463389e47fcdc4e979de73802a",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 2455410,
+      "text": "Ba"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3455410,
+      "duration": 3013330,
+      "text": "trăm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6468750,
+      "duration": 892910,
+      "text": "năm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7361660,
+      "duration": 1115830,
+      "text": "mươi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8477500,
+      "duration": 1785830,
+      "text": "ki"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10263330,
+      "duration": 1562500,
+      "text": "lô"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11825830,
+      "duration": 2232080,
+      "text": "mét"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14057910,
+      "duration": 1562500,
+      "text": "một"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15620410,
+      "duration": 3013330,
+      "text": "giờ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20196250,
+      "duration": 2232080,
+      "text": "gần"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22428750,
+      "duration": 2008750,
+      "text": "một"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24437500,
+      "duration": 1785830,
+      "text": "trăm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26223330,
+      "duration": 1897080,
+      "text": "mét"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28120410,
+      "duration": 1785830,
+      "text": "mỗi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29906250,
+      "duration": 2678750,
+      "text": "giây"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40008750,
+      "duration": 1897500,
+      "text": "Để"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41906250,
+      "duration": 2232080,
+      "text": "chạy"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44138330,
+      "duration": 1674160,
+      "text": "nhanh"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45812500,
+      "duration": 1450830,
+      "text": "như"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47263330,
+      "duration": 2901660,
+      "text": "vậy"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51839160,
+      "duration": 2455410,
+      "text": "đoàn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54294580,
+      "duration": 1785830,
+      "text": "tàu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56080410,
+      "duration": 2008750,
+      "text": "cần"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58089160,
+      "duration": 1339160,
+      "text": "gì"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59428750,
+      "duration": 2232080,
+      "text": "ngoài"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61660830,
+      "duration": 1674160,
+      "text": "một"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63335000,
+      "duration": 2008750,
+      "text": "động"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65343750,
+      "duration": 1339160,
+      "text": "cơ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66682910,
+      "duration": 4017910,
+      "text": "khỏe"
+    }
+  ]
+}

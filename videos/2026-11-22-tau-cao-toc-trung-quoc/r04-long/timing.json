@@ -1,0 +1,140 @@
+{
+  "fps": 24,
+  "durationSeconds": 300,
+  "voice": "nhat-phong-local",
+  "tempo": 1.1636873584969418,
+  "chapters": [
+    {
+      "id": "hook",
+      "title": "Chưa đầy nửa phút, tàu đã đi bao xa?",
+      "start": 0,
+      "frames": 315
+    },
+    {
+      "id": "speed",
+      "title": "97 m trong một giây",
+      "start": 315,
+      "frames": 288
+    },
+    {
+      "id": "disclaimer",
+      "title": "Miễn trừ trách nhiệm",
+      "start": 603,
+      "frames": 269
+    },
+    {
+      "id": "overview",
+      "title": "Từ Trung Quốc đến vùng Hoa Bắc",
+      "start": 872,
+      "frames": 310
+    },
+    {
+      "id": "regional",
+      "title": "Bắc Kinh → Vũ Thanh → Thiên Tân",
+      "start": 1182,
+      "frames": 306
+    },
+    {
+      "id": "stops",
+      "title": "Vũ Thanh nằm giữa hai đầu tuyến",
+      "start": 1488,
+      "frames": 340
+    },
+    {
+      "id": "distance",
+      "title": "116,55 km đường sắt",
+      "start": 1828,
+      "frames": 327
+    },
+    {
+      "id": "history",
+      "title": "Khai trương tháng 8 năm 2008",
+      "start": 2155,
+      "frames": 337
+    },
+    {
+      "id": "time",
+      "title": "Một phép tính với tốc độ cố định",
+      "start": 2492,
+      "frames": 329
+    },
+    {
+      "id": "profile",
+      "title": "Tăng tốc · Chạy tuyến · Giảm tốc",
+      "start": 2821,
+      "frames": 338
+    },
+    {
+      "id": "curve",
+      "title": "Cùng tốc độ, cua gắt đổi hướng nhanh hơn",
+      "start": 3159,
+      "frames": 322
+    },
+    {
+      "id": "radius",
+      "title": "Bán kính cong là gì?",
+      "start": 3481,
+      "frames": 343
+    },
+    {
+      "id": "land",
+      "title": "Cầu cạn giúp tách hai luồng giao thông",
+      "start": 3824,
+      "frames": 335
+    },
+    {
+      "id": "tunnel",
+      "title": "Đường hầm mở đường qua địa hình",
+      "start": 4159,
+      "frames": 324
+    },
+    {
+      "id": "signal",
+      "title": "Dữ liệu đi từ tuyến vào buồng lái",
+      "start": 4483,
+      "frames": 337
+    },
+    {
+      "id": "brake",
+      "title": "Giảm tốc phải được tính từ trước",
+      "start": 4820,
+      "frames": 333
+    },
+    {
+      "id": "cab",
+      "title": "Tàu luôn đổi trạng thái trong chuyến đi",
+      "start": 5153,
+      "frames": 346
+    },
+    {
+      "id": "factory",
+      "title": "Một dầm bắt đầu ở bãi đúc",
+      "start": 5499,
+      "frames": 334
+    },
+    {
+      "id": "girder",
+      "title": "Vận chuyển · Đặt dầm · Chuyển máy",
+      "start": 5833,
+      "frames": 333
+    },
+    {
+      "id": "station",
+      "title": "Tốc độ trên ray chỉ là một phần chuyến đi",
+      "start": 6166,
+      "frames": 358
+    },
+    {
+      "id": "recap",
+      "title": "Đường ray · Tín hiệu · Thi công",
+      "start": 6524,
+      "frames": 354
+    },
+    {
+      "id": "cta",
+      "title": "Nhà ga hay cầu cạn?",
+      "start": 6878,
+      "frames": 322
+    }
+  ]
+}

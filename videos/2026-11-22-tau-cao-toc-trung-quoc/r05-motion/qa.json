@@ -1,0 +1,128 @@
+{
+  "duration": 300,
+  "decodedFrames": 7200,
+  "audioPacketHash": "SHA256=026f159f93756059f94e42d04e1f967fb56902889d39de9a453e08759bbef42f",
+  "sampledMotion": [
+    {
+      "chapter": "overview",
+      "frames": [
+        896,
+        992,
+        1136
+      ],
+      "pixelDifference": [
+        25.067,
+        18.131
+      ]
+    },
+    {
+      "chapter": "regional",
+      "frames": [
+        1254,
+        1356,
+        1412
+      ],
+      "pixelDifference": [
+        7.167,
+        8.252
+      ]
+    },
+    {
+      "chapter": "stops",
+      "frames": [
+        1678,
+        1717,
+        1783
+      ],
+      "pixelDifference": [
+        7.608,
+        10.373
+      ]
+    },
+    {
+      "chapter": "distance",
+      "frames": [
+        1934,
+        2001,
+        2092
+      ],
+      "pixelDifference": [
+        7.222,
+        8.105
+      ]
+    },
+    {
+      "chapter": "profile",
+      "frames": [
+        2910,
+        2977,
+        3063
+      ],
+      "pixelDifference": [
+        1.283,
+        6.257
+      ]
+    },
+    {
+      "chapter": "curve",
+      "frames": [
+        3221,
+        3317,
+        3416
+      ],
+      "pixelDifference": [
+        0.558,
+        0.594
+      ]
+    },
+    {
+      "chapter": "signal",
+      "frames": [
+        4637,
+        4680,
+        4752
+      ],
+      "pixelDifference": [
+        1.119,
+        1.789
+      ]
+    },
+    {
+      "chapter": "brake",
+      "frames": [
+        4911,
+        4994,
+        5118
+      ],
+      "pixelDifference": [
+        1.158,
+        4.377
+      ]
+    },
+    {
+      "chapter": "factory",
+      "frames": [
+        5617,
+        5662,
+        5797
+      ],
+      "pixelDifference": [
+        2.648,
+        3.513
+      ]
+    },
+    {
+      "chapter": "station",
+      "frames": [
+        6221,
+        6267,
+        6478
+      ],
+      "pixelDifference": [
+        2.058,
+        2.925
+      ]
+    }
+  ],
+  "sha256": "54a117580600b8f3d7780352d48ed531728da10a16adae24fe19b0875520ede4"
+}

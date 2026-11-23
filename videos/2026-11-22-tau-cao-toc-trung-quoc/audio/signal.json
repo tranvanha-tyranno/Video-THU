@@ -1,0 +1,248 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Mắt xích thứ hai nằm trong buồng lái. Thiết bị trên tuyến gửi dữ liệu về đoạn đường phía trước. Hệ thống trên tàu hiển thị tốc độ và vị trí để người lái theo dõi ngay trong buồng lái.",
+  "sha256": "e23fc215038347dab296f78b78c7995fa3bab09d888694dddcd0dc1fb1d8b8e5",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 3013330,
+      "text": "Mắt"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4013330,
+      "duration": 2120410,
+      "text": "xích"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6133750,
+      "duration": 1785830,
+      "text": "thứ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7919580,
+      "duration": 2120410,
+      "text": "hai"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 10040000,
+      "duration": 2232080,
+      "text": "nằm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12272500,
+      "duration": 1897080,
+      "text": "trong"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14169580,
+      "duration": 1785830,
+      "text": "buồng"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15955410,
+      "duration": 3348330,
+      "text": "lái"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26727500,
+      "duration": 2120410,
+      "text": "Thiết"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28848330,
+      "duration": 1785410,
+      "text": "bị"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30633750,
+      "duration": 2008750,
+      "text": "trên"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32642910,
+      "duration": 2343750,
+      "text": "tuyến"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34986660,
+      "duration": 1785830,
+      "text": "gửi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36772500,
+      "duration": 1673750,
+      "text": "dữ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38446250,
+      "duration": 2343750,
+      "text": "liệu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 40790000,
+      "duration": 1339160,
+      "text": "về"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42129580,
+      "duration": 2343750,
+      "text": "đoạn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44473330,
+      "duration": 1785410,
+      "text": "đường"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46258750,
+      "duration": 1785830,
+      "text": "phía"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48044580,
+      "duration": 2678750,
+      "text": "trước"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58200830,
+      "duration": 2008750,
+      "text": "Hệ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60210000,
+      "duration": 2678330,
+      "text": "thống"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62888330,
+      "duration": 1674160,
+      "text": "trên"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64562500,
+      "duration": 1674160,
+      "text": "tàu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66236660,
+      "duration": 1674160,
+      "text": "hiển"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67910830,
+      "duration": 1339160,
+      "text": "thị"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69250000,
+      "duration": 1785830,
+      "text": "tốc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71035830,
+      "duration": 2120410,
+      "text": "độ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73156250,
+      "duration": 1116250,
+      "text": "và"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74272500,
+      "duration": 1450830,
+      "text": "vị"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75723330,
+      "duration": 2678330,
+      "text": "trí"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78401660,
+      "duration": 1004580,
+      "text": "để"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79406250,
+      "duration": 2008750,
+      "text": "người"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81415000,
+      "duration": 2008750,
+      "text": "lái"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83424160,
+      "duration": 1562500,
+      "text": "theo"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84986660,
+      "duration": 2008750,
+      "text": "dõi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86995410,
+      "duration": 2120410,
+      "text": "ngay"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89116250,
+      "duration": 1673750,
+      "text": "trong"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 90790000,
+      "duration": 1674160,
+      "text": "buồng"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 92464160,
+      "duration": 3236660,
+      "text": "lái"
+    }
+  ]
+}

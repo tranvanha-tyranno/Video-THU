@@ -1,0 +1,57 @@
+{
+  "frames": 2265,
+  "fps": 30,
+  "dimension": "1920x1080",
+  "voiceCorrelation": 0.9999796783007117,
+  "sceneSamples": [
+    [
+      2.6,
+      "photo"
+    ],
+    [
+      6.9,
+      "97m"
+    ],
+    [
+      12.4,
+      "disclaimer"
+    ],
+    [
+      18.4,
+      "locator"
+    ],
+    [
+      25.2,
+      "detailed map"
+    ],
+    [
+      30.8,
+      "curves"
+    ],
+    [
+      36.1,
+      "viaduct"
+    ],
+    [
+      42.9,
+      "signal"
+    ],
+    [
+      46.7,
+      "cab"
+    ],
+    [
+      55.8,
+      "bridge"
+    ],
+    [
+      64.5,
+      "footage"
+    ],
+    [
+      72.5,
+      "CTA"
+    ]
+  ],
+  "sha256": "7dc0213d83c9743433a010974caf63b2acac0316a520a2927373dd1c491eaf7c"
+}

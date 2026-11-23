@@ -1,0 +1,18 @@
+{
+  "durationSeconds": 300,
+  "decodedFrames": 7200,
+  "fps": 24,
+  "audioPacketHash": "SHA256=026f159f93756059f94e42d04e1f967fb56902889d39de9a453e08759bbef42f",
+  "replacedFramesEndExclusive": [
+    [
+      872,
+      2155
+    ],
+    [
+      6524,
+      6878
+    ]
+  ],
+  "mapDataHash": "064ef8cf543b52ef7d181ae648856aea2a3e2ed04784daa7b39a01f22205b7d3",
+  "sha256": "e88abb9149d7a7f99dfe62e760d01319005d9764715bbff15d8bb5f0c56d5a74"
+}

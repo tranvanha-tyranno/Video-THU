@@ -1,0 +1,63 @@
+{
+  "audio": "narration.wav",
+  "overview": [
+    840.34,
+    266.94
+  ],
+  "stations": [
+    [
+      290.92,
+      137.02
+    ],
+    [
+      605.22,
+      455.69
+    ],
+    [
+      705.08,
+      605.69
+    ]
+  ],
+  "chapters": [
+    {
+      "id": "hook",
+      "start": 0,
+      "frames": 244
+    },
+    {
+      "id": "disclaimer",
+      "start": 244,
+      "frames": 277
+    },
+    {
+      "id": "route",
+      "start": 521,
+      "frames": 308
+    },
+    {
+      "id": "track",
+      "start": 829,
+      "frames": 325
+    },
+    {
+      "id": "signal",
+      "start": 1154,
+      "frames": 317
+    },
+    {
+      "id": "build",
+      "start": 1471,
+      "frames": 306
+    },
+    {
+      "id": "payoff",
+      "start": 1777,
+      "frames": 272
+    },
+    {
+      "id": "cta",
+      "start": 2049,
+      "frames": 216
+    }
+  ]
+}

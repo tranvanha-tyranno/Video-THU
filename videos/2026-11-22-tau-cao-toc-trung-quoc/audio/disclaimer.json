@@ -1,0 +1,182 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Miễn trừ trách nhiệm. Video này nhằm mục đích giáo dục. Hình ảnh là mô phỏng đơn giản hóa và tốc độ thực tế thay đổi theo từng tuyến.",
+  "sha256": "2e8d5396db82fd63b641cdf4cb5db1e94818d7bf946e3226516c11a3bae9b4d7",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 4241250,
+      "text": "Miễn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5241250,
+      "duration": 2008750,
+      "text": "trừ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7250000,
+      "duration": 2232080,
+      "text": "trách"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9482080,
+      "duration": 3348330,
+      "text": "nhiệm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20254580,
+      "duration": 6919580,
+      "text": "Video"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27174160,
+      "duration": 2120410,
+      "text": "này"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29294580,
+      "duration": 2232080,
+      "text": "nhằm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31526660,
+      "duration": 1562500,
+      "text": "mục"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33089160,
+      "duration": 1897500,
+      "text": "đích"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34986660,
+      "duration": 2008750,
+      "text": "giáo"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36995410,
+      "duration": 2343750,
+      "text": "dục"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46817080,
+      "duration": 2901660,
+      "text": "Hình"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 49718750,
+      "duration": 2343750,
+      "text": "ảnh"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52062500,
+      "duration": 1004580,
+      "text": "là"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53067080,
+      "duration": 1785410,
+      "text": "mô"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54852500,
+      "duration": 2455410,
+      "text": "phỏng"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57307910,
+      "duration": 1785830,
+      "text": "đơn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59093750,
+      "duration": 2008750,
+      "text": "giản"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 61102500,
+      "duration": 2790000,
+      "text": "hóa"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63892910,
+      "duration": 1227500,
+      "text": "và"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65120410,
+      "duration": 1674160,
+      "text": "tốc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66794580,
+      "duration": 1450830,
+      "text": "độ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68245410,
+      "duration": 1674160,
+      "text": "thực"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69919580,
+      "duration": 2120410,
+      "text": "tế"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72040000,
+      "duration": 1450830,
+      "text": "thay"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73491250,
+      "duration": 1897080,
+      "text": "đổi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75388330,
+      "duration": 1785830,
+      "text": "theo"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77174160,
+      "duration": 2120410,
+      "text": "từng"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79294580,
+      "duration": 3125000,
+      "text": "tuyến"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "frames": 7200,
+  "seconds": 300.0,
+  "sha256": "afb52fe4dd548037b64223539fea1255d3a8a3784b084bc88225edd68acbcc01",
+  "audioPacketHash": "SHA256=026f159f93756059f94e42d04e1f967fb56902889d39de9a453e08759bbef42f",
+  "replacedFrameRanges": [
+    [
+      315,
+      603
+    ],
+    [
+      2821,
+      6878
+    ]
+  ],
+  "visualSampleFrames": {
+    "speed": 439,
+    "profile": 3046,
+    "curve": 3339,
+    "radius": 3746,
+    "land": 4095,
+    "tunnel": 4275,
+    "signal": 4728,
+    "brake": 5111,
+    "cab": 5414,
+    "factory": 5702,
+    "girder": 5938,
+    "station": 6272
+  },
+  "refinedFrameRanges": [
+    [
+      3824,
+      4483
+    ],
+    [
+      5499,
+      6166
+    ],
+    [
+      6524,
+      6878
+    ]
+  ]
+}

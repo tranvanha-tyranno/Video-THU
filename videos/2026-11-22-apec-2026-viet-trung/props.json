@@ -1,0 +1,367 @@
+{
+  "shots": [
+    {
+      "id": "hook",
+      "title": "Cái bắt tay ở Thâm Quyến và điểm hẹn Phú Quốc",
+      "start": 0,
+      "frames": 595,
+      "cues": [
+        0,
+        185,
+        387
+      ]
+    },
+    {
+      "id": "scope",
+      "title": "Cách đọc số liệu và hình ảnh trong tập này",
+      "start": 595,
+      "frames": 413,
+      "cues": [
+        0,
+        215
+      ]
+    },
+    {
+      "id": "shenzhen",
+      "title": "Vì sao Trung Quốc chọn Thâm Quyến cho A Pếch?",
+      "start": 1008,
+      "frames": 584,
+      "cues": [
+        0,
+        218,
+        390
+      ]
+    },
+    {
+      "id": "map_bridge",
+      "title": "Trục bản đồ Thâm Quyến, Hà Nội và Phú Quốc",
+      "start": 1592,
+      "frames": 581,
+      "cues": [
+        0,
+        183,
+        360
+      ]
+    },
+    {
+      "id": "summit",
+      "title": "Cuộc hội đàm ngày mười bảy tháng mười một",
+      "start": 2173,
+      "frames": 553,
+      "cues": [
+        0,
+        192,
+        380
+      ]
+    },
+    {
+      "id": "handover",
+      "title": "Nghi lễ chuyển giao quyền chủ nhà A Pếch",
+      "start": 2726,
+      "frames": 596,
+      "cues": [
+        0,
+        203,
+        405
+      ]
+    },
+    {
+      "id": "people",
+      "title": "Ngoại giao hai kênh: Lãnh đạo và giao lưu nhân dân",
+      "start": 3322,
+      "frames": 592,
+      "cues": [
+        0,
+        199,
+        383
+      ]
+    },
+    {
+      "id": "trade_surge",
+      "title": "Thương mại Việt Trung tiến sát ba trăm năm mươi tỷ đô la",
+      "start": 3914,
+      "frames": 614,
+      "cues": [
+        0,
+        213,
+        403
+      ]
+    },
+    {
+      "id": "trade_gap",
+      "title": "Mặt trái của kỷ lục: Bài toán nhập siêu",
+      "start": 4528,
+      "frames": 655,
+      "cues": [
+        0,
+        188,
+        428
+      ]
+    },
+    {
+      "id": "supply_chain",
+      "title": "Vì sao Việt Nam nhập khẩu lớn từ Trung Quốc?",
+      "start": 5183,
+      "frames": 608,
+      "cues": [
+        0,
+        207,
+        420
+      ]
+    },
+    {
+      "id": "exports_vn",
+      "title": "Nông sản và điện tử: Động lực kéo cân bằng",
+      "start": 5791,
+      "frames": 628,
+      "cues": [
+        0,
+        238,
+        450
+      ]
+    },
+    {
+      "id": "gba_link",
+      "title": "Kết nối trực tiếp với Vùng Vịnh Lớn",
+      "start": 6419,
+      "frames": 567,
+      "cues": [
+        0,
+        167,
+        358
+      ]
+    },
+    {
+      "id": "rail_bottleneck",
+      "title": "Nút thắt lịch sử: Hai khổ đường ray khác nhau",
+      "start": 6986,
+      "frames": 622,
+      "cues": [
+        0,
+        192,
+        429
+      ]
+    },
+    {
+      "id": "rail_map",
+      "title": "Hành lang đường sắt Lào Cai, Hà Nội và Hải Phòng",
+      "start": 7608,
+      "frames": 570,
+      "cues": [
+        0,
+        179,
+        391
+      ]
+    },
+    {
+      "id": "rail_specs",
+      "title": "Thông số kỹ thuật và quy mô vốn hơn mười một tỷ đô la",
+      "start": 8178,
+      "frames": 598,
+      "cues": [
+        0,
+        178,
+        356
+      ]
+    },
+    {
+      "id": "rail_network",
+      "title": "Ba tuyến khổ chuẩn và mốc khởi công năm hai nghìn không trăm hai mươi lăm",
+      "start": 8776,
+      "frames": 606,
+      "cues": [
+        0,
+        260,
+        423
+      ]
+    },
+    {
+      "id": "port_hai_phong",
+      "title": "Từ biên giới đất liền ra cảng nước sâu Lạch Huyện",
+      "start": 9382,
+      "frames": 601,
+      "cues": [
+        0,
+        223,
+        405
+      ]
+    },
+    {
+      "id": "border_photo",
+      "title": "Hữu Nghị và Hữu Nghị Quan: Cửa ngõ đường bộ trọng điểm",
+      "start": 9983,
+      "frames": 645,
+      "cues": [
+        0,
+        202,
+        447
+      ]
+    },
+    {
+      "id": "smart_border",
+      "title": "Cơ chế cửa khẩu thông minh và xe tự hành",
+      "start": 10628,
+      "frames": 614,
+      "cues": [
+        0,
+        196,
+        420
+      ]
+    },
+    {
+      "id": "phu_quoc_map",
+      "title": "Phú Quốc bước vào đường đua A Pếch hai nghìn không trăm hai mươi bảy",
+      "start": 11242,
+      "frames": 660,
+      "cues": [
+        0,
+        230,
+        453
+      ]
+    },
+    {
+      "id": "multilateral",
+      "title": "Ngoại giao cân bằng giữa các hiệp định lớn",
+      "start": 11902,
+      "frames": 655,
+      "cues": [
+        0,
+        244,
+        429
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Ba phép thử thực tế sau cái bắt tay Thâm Quyến",
+      "start": 12557,
+      "frames": 700,
+      "cues": [
+        0,
+        245,
+        443
+      ]
+    },
+    {
+      "id": "recap",
+      "title": "Trả lời câu hỏi mở đầu",
+      "start": 13257,
+      "frames": 684,
+      "cues": [
+        0,
+        189,
+        451
+      ]
+    },
+    {
+      "id": "cta",
+      "title": "Bạn muốn phân tích sâu chủ đề nào tiếp theo?",
+      "start": 13941,
+      "frames": 459,
+      "cues": [
+        0,
+        222
+      ]
+    }
+  ],
+  "maps": {
+    "region": {
+      "shenzhen": [
+        562.97,
+        121.4
+      ],
+      "nanning": [
+        369.45,
+        111.3
+      ],
+      "kunming": [
+        181.32,
+        34.61
+      ],
+      "laocai": [
+        220.17,
+        123.69
+      ],
+      "langson": [
+        314.89,
+        146.72
+      ],
+      "hanoi": [
+        283.36,
+        176.88
+      ],
+      "haiphong": [
+        312.4,
+        183.54
+      ],
+      "danang": [
+        363.87,
+        355.31
+      ],
+      "hcmc": [
+        310.41,
+        538.25
+      ],
+      "phuquoc": [
+        220.46,
+        556.69
+      ]
+    },
+    "rail": {
+      "laocai": [
+        135.71,
+        98.5
+      ],
+      "phutho": [
+        350.81,
+        316.96
+      ],
+      "hanoi": [
+        460.99,
+        372.3
+      ],
+      "bacninh": [
+        502.43,
+        342.61
+      ],
+      "hungyen": [
+        498.94,
+        443.72
+      ],
+      "haiphong": [
+        610.42,
+        406.57
+      ],
+      "lachhuyen": [
+        648.37,
+        412.17
+      ],
+      "langson": [
+        623.26,
+        217.02
+      ],
+      "mongcai": [
+        834.05,
+        279.11
+      ]
+    },
+    "phuquoc": {
+      "duongdong": [
+        407.45,
+        384.71
+      ],
+      "airport": [
+        454.0,
+        457.19
+      ],
+      "anthoi": [
+        479.95,
+        670.46
+      ],
+      "baidai": [
+        252.3,
+        213.77
+      ]
+    },
+    "tiles": "https://tiles.openfreemap.org/planet/20261115_080022_pt/{z}/{x}/{y}.pbf"
+  }
+}

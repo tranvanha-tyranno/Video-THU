@@ -1,0 +1,112 @@
+[
+  {
+    "id": "hook",
+    "title": "Chưa đầy nửa phút, tàu đã đi bao xa?",
+    "text": "Một đoàn tàu chạy ba trăm năm mươi ki lô mét một giờ, cứ mỗi giây tiến gần một trăm mét. Trong thời gian bạn nhìn ra cửa sổ rồi quay lại, cả dãy nhà có thể đã lùi xa. Làm thế nào để tàu đi nhanh như vậy mà vẫn vào cua và dừng đúng ga?"
+  },
+  {
+    "id": "speed",
+    "title": "97 m trong một giây",
+    "text": "Thử đặt một sân dài một trăm mét cạnh đường sắt. Ở tốc độ đó, đầu tàu đi gần hết chiều dài sân chỉ trong một giây. Nhưng con số ấy chỉ nói về một khoảnh khắc. Để hiểu cả chuyến, hãy nhìn vào tuyến đường dưới bánh tàu."
+  },
+  {
+    "id": "disclaimer",
+    "title": "Miễn trừ trách nhiệm",
+    "text": "Video này nhằm mục đích giáo dục. Bản đồ dùng để định vị, còn hình kỹ thuật đã được giản lược. Các ví dụ tính toán ghi rõ giả định. Hãy kiểm tra lịch chạy chính thức nếu bạn cần lên kế hoạch đi tàu."
+  },
+  {
+    "id": "overview",
+    "title": "Từ Trung Quốc đến vùng Hoa Bắc",
+    "text": "Trên bản đồ Trung Quốc, tìm Bắc Kinh ở phía đông bắc. Thiên Tân nằm về phía đông nam của Bắc Kinh, gần vịnh Bột Hải. Phần màu xanh ở mép bản đồ là mặt biển. Hai thành phố nằm trong một vùng đô thị có đồng bằng và núi ở phía tây."
+  },
+  {
+    "id": "regional",
+    "title": "Bắc Kinh → Vũ Thanh → Thiên Tân",
+    "text": "Bây giờ phóng gần vào tuyến. Điểm xuất phát là ga Bắc Kinh Nam, ở phía nam trung tâm thành phố. Từ đó, tuyến hướng xuống đông nam, đi qua khu vực Vũ Thanh, rồi đến ga Thiên Tân. Hãy theo dấu vàng để đọc đường đi từ đầu đến cuối."
+  },
+  {
+    "id": "stops",
+    "title": "Vũ Thanh nằm giữa hai đầu tuyến",
+    "text": "Dừng ở Vũ Thanh trên bản đồ một chút. Đây là một ga thuộc Thiên Tân, nằm giữa hai ga đầu cuối đang hiện trên màn hình. Khi một chuyến có dừng ở đây, tàu cần giảm tốc, đón trả khách rồi tăng tốc trở lại. Hành trình của chuyến đó sẽ có thêm một nhịp dừng."
+  },
+  {
+    "id": "distance",
+    "title": "116,55 km đường sắt",
+    "text": "Hồ sơ của Cục Đường sắt Quốc gia Trung Quốc ghi chiều dài tuyến là một trăm mười sáu phẩy năm mươi lăm ki lô mét. Con số này đo dọc tuyến đường sắt. Trên bản đồ, đường vàng cho thấy hướng đi và vị trí tương đối của các ga ở tỷ lệ đang xem."
+  },
+  {
+    "id": "history",
+    "title": "Khai trương tháng 8 năm 2008",
+    "text": "Tuyến khai trương vào tháng tám năm hai nghìn không trăm linh tám, trước Thế vận hội mùa hè ở Bắc Kinh. Đây là tuyến cao tốc đầu tiên của Trung Quốc có tốc độ thiết kế ba trăm năm mươi ki lô mét một giờ. Hãy giữ chữ thiết kế trong đầu khi nhìn vào đồng hồ."
+  },
+  {
+    "id": "time",
+    "title": "Một phép tính với tốc độ cố định",
+    "text": "Lấy một trăm mười sáu phẩy năm mươi lăm chia cho ba trăm năm mươi, rồi đổi từ giờ sang phút. Phép tính ra gần hai mươi phút nếu tàu giữ nguyên tốc độ cả tuyến. Trên một chuyến thật, tàu phải rời ga, tăng tốc, điều chỉnh tốc độ rồi giảm tốc để đến ga."
+  },
+  {
+    "id": "profile",
+    "title": "Tăng tốc · Chạy tuyến · Giảm tốc",
+    "text": "Đường biểu diễn này cho thấy hành trình từ lúc tàu còn đứng ở sân ga. Tốc độ tăng lên, giữ cao trên một phần tuyến rồi hạ xuống khi đến ga đích. Phần nằm dưới đường biểu diễn là quãng đường tàu đi được. Từng lựa chọn trên tuyến làm thay đổi hình dạng đường này."
+  },
+  {
+    "id": "curve",
+    "title": "Cùng tốc độ, cua gắt đổi hướng nhanh hơn",
+    "text": "Nhìn từ trên cao, hai đường có cùng hướng đi, nhưng một đường đổi hướng gấp ở giữa. Nếu chạy cùng tốc độ, tàu qua đường cong chặt hơn phải đổi hướng nhanh hơn. Chọn đường cong thoải làm chuyển động êm hơn và tạo điều kiện để tàu duy trì tốc độ cao."
+  },
+  {
+    "id": "radius",
+    "title": "Bán kính cong là gì?",
+    "text": "Hãy đặt một vòng tròn lên đoạn cua. Vòng tròn càng lớn, cùng một đoạn ngắn trên vành càng gần với đường thẳng. Đó là cách hình dung bán kính cong. Báo cáo của Ngân hàng Thế giới nêu bán kính ngang thông thường bảy nghìn mét trong bảng tiêu chuẩn tuyến thiết kế ba trăm năm mươi."
+  },
+  {
+    "id": "land",
+    "title": "Cầu cạn giúp tách hai luồng giao thông",
+    "text": "Nếu giữ đường sắt ở một cao độ phù hợp, đôi khi bên dưới lại có đường bộ hoặc vùng đất thấp. Cầu cạn đưa đường ray lên trên. Xe đường bộ đi phía dưới, còn tàu đi trên tuyến riêng. Hình mặt cắt đang cho thấy hai luồng đi qua cùng vị trí ở hai cao độ."
+  },
+  {
+    "id": "tunnel",
+    "title": "Đường hầm mở đường qua địa hình",
+    "text": "Qua vùng đồi, người thiết kế có thể cân nhắc đường hầm để đi xuyên địa hình. Lựa chọn phụ thuộc vào độ dốc, đường cong, điều kiện đất đá và chi phí xây dựng. Hình cắt ở đây cho thấy lý do bố trí tuyến và tốc độ thiết kế phải được tính cùng nhau."
+  },
+  {
+    "id": "signal",
+    "title": "Dữ liệu đi từ tuyến vào buồng lái",
+    "text": "Khi tàu chạy nhanh, người lái cần thông tin về đoạn đường phía trước. Báo cáo của Ngân hàng Thế giới mô tả thiết bị mặt đất cung cấp thông số tuyến, khoảng cách và trạng thái đường đi. Hệ thống trên tàu tiếp nhận dữ liệu và hiển thị tốc độ, vị trí trong buồng lái."
+  },
+  {
+    "id": "brake",
+    "title": "Giảm tốc phải được tính từ trước",
+    "text": "Hãy tưởng tượng tàu đang tiến đến nơi cần chạy chậm hơn. Tốc độ cần giảm dần trước khi tàu tới đó. Vạch trên hình báo vị trí giới hạn, còn đường cong bên dưới thể hiện tốc độ minh họa theo khoảng cách. Điều quan trọng là dải giảm tốc bắt đầu ở phía trước vạch."
+  },
+  {
+    "id": "cab",
+    "title": "Tàu luôn đổi trạng thái trong chuyến đi",
+    "text": "Quay lại màn hình buồng lái. Hai thứ cần đọc cùng nhau là tàu đang ở đâu và đang chạy nhanh đến mức nào. Người lái cũng có thông tin về điều kiện của đoạn tuyến. Những dữ liệu này giúp nối phần điều khiển trên tàu với chính con đường mà tàu sắp đi qua."
+  },
+  {
+    "id": "factory",
+    "title": "Một dầm bắt đầu ở bãi đúc",
+    "text": "Tuyến có nhiều nhịp cầu cho phép tổ chức thi công lặp lại. Một phần việc có thể làm từ bãi đúc: chuẩn bị khuôn, đúc dầm và kiểm tra trước khi vận chuyển. Trên công trường, đội thi công chuẩn bị các trụ để khi dầm đến, vị trí đặt đã sẵn sàng."
+  },
+  {
+    "id": "girder",
+    "title": "Vận chuyển · Đặt dầm · Chuyển máy",
+    "text": "Quan sát dầm màu cam. Nó được đưa đến giữa hai trụ, giữ đúng vị trí rồi hạ xuống. Sau khi hoàn thành một nhịp, thiết bị chuyển sang nhịp kế tiếp. Ngân hàng Thế giới mô tả việc chuẩn hóa thiết kế và dùng lại thiết bị chuyên dụng trên nhiều dự án xây dựng."
+  },
+  {
+    "id": "station",
+    "title": "Tốc độ trên ray chỉ là một phần chuyến đi",
+    "text": "Giờ trở lại với người đi tàu. Từ nhà đến ga, qua cửa kiểm tra, lên tàu, xuống sân ga rồi tiếp tục vào trung tâm, mỗi đoạn đều mất thời gian. Đoạn chạy nhanh nằm ở giữa. Vì vậy, khi so hai lựa chọn đi lại, hãy cộng cả thời gian trước và sau chuyến tàu."
+  },
+  {
+    "id": "recap",
+    "title": "Đường ray · Tín hiệu · Thi công",
+    "text": "Nhìn lại chấm vàng từ Bắc Kinh xuống Thiên Tân. Đường cong thoải và tuyến riêng tạo điều kiện về hạ tầng. Tín hiệu đưa thông tin của tuyến vào buồng lái. Còn phương pháp thi công lặp lại giúp dựng được nhiều đoạn cầu. Đó là ba tầng công việc nằm phía sau một con số tốc độ."
+  },
+  {
+    "id": "cta",
+    "title": "Nhà ga hay cầu cạn?",
+    "text": "Lần tới nhìn thấy một đoàn tàu cao tốc, hãy nhìn thêm phần đường sắt phía trước nó. Bạn muốn mình mổ xẻ cách vận hành một nhà ga hay cách dựng một cây cầu cạn? Bình luận chủ đề bạn chọn và bấm đăng ký kênh để xem video tiếp theo nhé."
+  }
+]

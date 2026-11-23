@@ -1,0 +1,52 @@
+# AutoTyranno Video Studio
+
+Chạy `./start-studio.ps1 -Open` sau khi cài dependency và build frontend. Tạo dự án, tải ảnh lên, chỉnh prompt, chạy pipeline và tải video tại `http://127.0.0.1:3000`. Xem [hướng dẫn Studio](docs/studio-web.md).
+
+Studio local quản lý sản xuất video tiếng Việt. Quy trình explainer, motion graphics và video so sánh ngắn nằm trong [hướng dẫn chuẩn bị video](workflows/reference-video/README.md#chuẩn-bị-video-mới).
+
+**Mã nguồn và dữ liệu video:** repo lưu video được chọn và ảnh/audio nguồn bằng Git LFS, cùng kịch bản, timeline và bằng chứng batch. Video dư, cache, bundle render sao chép, dependency và credential được loại khỏi lần đẩy; dữ liệu local vẫn được giữ. Xem [phạm vi lưu trữ và cách tải từng batch](docs/repository-storage.md).
+
+## Chạy nhanh backend
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r backend/requirements.txt
+uvicorn app.main:app --reload --app-dir backend
+```
+
+Mở `http://localhost:8000/docs` để thử API Studio. Dự án và media Studio nằm trong `data/studio/`.
+
+## Chạy dashboard
+
+```powershell
+cd frontend
+npm install
+npm run dev
+```
+
+Dashboard mặc định gọi backend tại `http://localhost:8000`; có thể đổi bằng biến `NEXT_PUBLIC_API_URL`.
+
+## Tạo video mẫu
+
+Mã explainer, hướng dẫn cài đặt và kiểm tra offline nằm tại [workflows/reference-video](workflows/reference-video/README.md). Hai lựa chọn tài chính mới là chuyển động tối giản theo hành động và nhân vật comic biểu cảm; xem [FINANCE_STYLES.md](workflows/reference-video/FINANCE_STYLES.md). Bản tối giản đầu bị chê giống slide, tạo hình cũ cần sửa; hướng comic do người dùng chọn, còn hình mới vẫn chờ phản hồi. Video/audio render được lưu bằng Git LFS; kịch bản và bằng chứng batch nằm cùng thư mục `videos/`.
+
+Nhánh explainer ảnh thật/gallery 3D hiện dùng [quy trình sản xuất](workflows/reference-video/PRODUCTION.md) và [vòng cải tiến sau mỗi batch](workflows/reference-video/LEARNING_LOOP.md). `production.py` kiểm toàn bộ lời–hình, nguồn và take thật, chạy hàng đợi tuần tự; `learning.py` lưu phản hồi có bằng chứng, tách khỏi kiểm kỹ thuật và duyệt của người dùng. Bản thử đời sống mới nằm ở `videos/2026-11-13-di-sieu-thi/`.
+
+Quy trình review sản phẩm bằng Muse2API và Adam V3 đã lưu tại [workflows/product-video/WORKFLOW.md](workflows/product-video/WORKFLOW.md). Mặc định hai clip với người mẫu hoặc chỉ tay và bối cảnh khác nhau, nhịp hình nhanh 1,5× từ ba cảnh mới; mỗi batch nằm trong `videos/`.
+
+Hồ sơ 17 video tham chiếu cho nhánh phân tích kinh tế/xã hội được lưu tại [docs/video-references/2026-11-11/STYLE_NOTES.md](docs/video-references/2026-11-11/STYLE_NOTES.md). Khi tạo video dạng này, chọn `auto_idea` hoặc `user_topic`, rồi luôn lưu research sources và QA theo batch.
+
+Chạy `python workflows/product-video/run.py cache --batch <batch>` rồi `plan` trước khi tạo để dùng lại TTS/media và xem số lần gọi provider dự kiến.
+
+Review nhiều bối cảnh hoặc dài hơn 30 giây dùng schema `clips[].scenes`, xem [ví dụ sạc dự phòng dùng chân dung chuẩn](workflows/product-video/example-powerbank-portrait-first.json). Tạo chân dung chuẩn bằng stage `characters` trước các ảnh cảnh; runner giữ ảnh/lời đọc riêng, khóa sản phẩm và nhân vật, đo/hiệu chỉnh tối dần và yêu cầu QA trước ghép. Theo phản hồi mới nhất: **không chèn chữ**, hook nói phải đưa thông tin bất ngờ trong 3 giây, CTA nói ở cuối, chuyển động có nhịp dừng–xoay nhẹ–tay kia chạm vỏ. Thông số phải có nguồn và nêu đúng phạm vi xác minh.
+
+Bộ [prompt hộp mica POV 6 giây](workflows/product-video/mica/WORKFLOW.md) lưu nguyên bản và phiên bản nhịp nhanh 11–20. Compiler offline tạo prompt theo N × 3 ảnh, tách khỏi runner review 20 giây.
+
+## Công nghệ cần đánh giá trước khi tích hợp
+
+[muse2api: kiểm tra, đánh giá và thử nghiệm](docs/muse2api-evaluation.md) ghi nhận hai repo ứng viên cho tạo ảnh/video. Cần hoàn thành thử nghiệm bằng tài khoản thật và đánh giá kết quả trước khi quyết định tích hợp vào pipeline.
+
+## Video phân tích — Lăng Kính / Tyranno
+
+Luồng mới dùng [workflow editorial](workflows/reference-video/WORKFLOW.md): 7 cách trình bày trong một video, footage chuyển động, giọng ElevenLabs có timestamp, SFX theo cue và nhạc ducked. Nhận diện lưu tại [lang-kinh.profile.json](workflows/reference-video/lang-kinh.profile.json); renderer là `editorial.py`. Batch minh họa: `videos/2026-11-11-lang-kinh-editorial-v2/`. Cấu hình khóa ElevenLabs trong local vault hoặc biến môi trường; không đưa key vào profile.

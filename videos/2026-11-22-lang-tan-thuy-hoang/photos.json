@@ -1,0 +1,51 @@
+{
+  "pit": {
+    "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1_in_2026.jpg",
+    "author": "Renek78",
+    "license": "CC0 1.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Terracotta_Army_-_Pit_1_in_2026.jpg/1280px-Terracotta_Army_-_Pit_1_in_2026.jpg",
+    "sha256": "33984acb644c7aed0564b266a11d435336c2e2f0b59a5dc14fb4ed3e8f73e47f"
+  },
+  "rows": {
+    "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Army%2C_View_of_Pit_1.jpg",
+    "author": "Jmhullot",
+    "license": "CC BY 3.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Terracotta_Army%2C_View_of_Pit_1.jpg/1280px-Terracotta_Army%2C_View_of_Pit_1.jpg",
+    "sha256": "2a90cdfba5fa238bdf29d7e6e172ef40a490b44d515f01d8518322efaefde461"
+  },
+  "archer": {
+    "page": "https://commons.wikimedia.org/wiki/File:Kneeling_archer_of_the_Terracotta_Army.jpg",
+    "author": "Difference engine",
+    "license": "CC BY-SA 4.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kneeling_archer_of_the_Terracotta_Army.jpg/1280px-Kneeling_archer_of_the_Terracotta_Army.jpg",
+    "sha256": "201ed3fa404e08c893528d1f9b5fee6c23302a5d802bf619c176e07ded30b758"
+  },
+  "figure": {
+    "page": "https://commons.wikimedia.org/wiki/File:Terracotta_Warrior-_Standing_Archer.jpg",
+    "author": "Gary Lee Todd",
+    "license": "CC0 1.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Terracotta_Warrior-_Standing_Archer.jpg/1280px-Terracotta_Warrior-_Standing_Archer.jpg",
+    "sha256": "4add593977ad8e6c4b2425e71b2050e70aa0d68c4ee7927bfd36a960958ae088"
+  },
+  "carriage": {
+    "page": "https://commons.wikimedia.org/wiki/File:Qin_Dynasty_Bronze_Chariot.jpg",
+    "author": "Gary Todd",
+    "license": "CC0 1.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Qin_Dynasty_Bronze_Chariot.jpg/1280px-Qin_Dynasty_Bronze_Chariot.jpg",
+    "sha256": "b0e0217607f2d13a541372c48165d96c747d31b8516bb88af3ebb58bbacc9db4"
+  },
+  "acrobat": {
+    "page": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Warrior_-_32553979417.jpg",
+    "author": "Gary Lee Todd",
+    "license": "CC0 1.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Qin_Terracotta_Warrior_-_32553979417.jpg/1280px-Qin_Terracotta_Warrior_-_32553979417.jpg",
+    "sha256": "cf6c7c56d2235bdff258f7ec89bbf655b025f6a29b0c26ad4bf8e78b08f55158"
+  },
+  "mound": {
+    "page": "https://commons.wikimedia.org/wiki/File:Xian%2C_1987_%2824807541832%29.jpg",
+    "author": "Nathan Hughes Hamilton",
+    "license": "CC BY 2.0",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Xian%2C_1987_%2824807541832%29.jpg/1280px-Xian%2C_1987_%2824807541832%29.jpg",
+    "sha256": "7a34b1b69ed389908cc79c27e609661a14a1acf9e0e137f48a9feffa96cb8ceb"
+  }
+}

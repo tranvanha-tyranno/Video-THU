@@ -1,0 +1,98 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "input": "Một đoàn tàu chạy ba trăm năm mươi ki lô mét một giờ. Điều gì giữ nó ổn định qua mỗi khúc cua? Hãy nhìn xuống đường ray.",
+  "instructions": "Đọc nguyên văn bằng tiếng Việt tự nhiên, rõ chữ, với nhịp vừa phải. Đọc như lời dẫn video giải thích. Ngắt nhẹ trước câu hỏi.",
+  "voices": [
+    {
+      "voice": "alloy",
+      "file": "samples/alloy.mp3",
+      "sha256": "95dd1b5b4977661b0bf5a595bd4853c7294b2b8d95bb616be035405622410bef",
+      "durationSeconds": 8.448,
+      "compilationStartSeconds": 0.0
+    },
+    {
+      "voice": "ash",
+      "file": "samples/ash.mp3",
+      "sha256": "6ec07e0980c535d7a15a11cf9b90b461befed9db09617cdca62dd4f5e83537fd",
+      "durationSeconds": 8.856,
+      "compilationStartSeconds": 9.098
+    },
+    {
+      "voice": "ballad",
+      "file": "samples/ballad.mp3",
+      "sha256": "49193ec2e933c7474d657148b979e3e6059e4cc1b89a24390adbef4c016e4208",
+      "durationSeconds": 6.72,
+      "compilationStartSeconds": 18.604
+    },
+    {
+      "voice": "coral",
+      "file": "samples/coral.mp3",
+      "sha256": "d68b0fa3eff3a1aa3d69332d1e87f1936ce9074df35deb44c4158850ad5abf8e",
+      "durationSeconds": 9.12,
+      "compilationStartSeconds": 25.974
+    },
+    {
+      "voice": "echo",
+      "file": "samples/echo.mp3",
+      "sha256": "1e3df325128302cee9b35de02242edb0990dd252c42fc73acd7eff59d9379f94",
+      "durationSeconds": 7.368,
+      "compilationStartSeconds": 35.744
+    },
+    {
+      "voice": "fable",
+      "file": "samples/fable.mp3",
+      "sha256": "82fd66d6da55039075a674cd85819963cfe64ae1aa3e61571003654676759b1e",
+      "durationSeconds": 7.008,
+      "compilationStartSeconds": 43.762
+    },
+    {
+      "voice": "nova",
+      "file": "samples/nova.mp3",
+      "sha256": "a0e9450392880bb0a1e5d237cbbac7b4da57dae831b141707519351a6fe03207",
+      "durationSeconds": 8.664,
+      "compilationStartSeconds": 51.42
+    },
+    {
+      "voice": "onyx",
+      "file": "samples/onyx.mp3",
+      "sha256": "c38f70d193a05c0c4f7732a9cf4872932cbd0abb55e00e010c7cfc9f557c7334",
+      "durationSeconds": 9.0,
+      "compilationStartSeconds": 60.734
+    },
+    {
+      "voice": "sage",
+      "file": "samples/sage.mp3",
+      "sha256": "bf8313810dd9b4b727152accf6a729f1af77df41fa8d9e085f76831a0817b385",
+      "durationSeconds": 9.768,
+      "compilationStartSeconds": 70.384
+    },
+    {
+      "voice": "shimmer",
+      "file": "samples/shimmer.mp3",
+      "sha256": "eedadc1679c397abea8f3571524dcb04194167f0fa2b446743953265ce2690e2",
+      "durationSeconds": 6.648,
+      "compilationStartSeconds": 80.802
+    },
+    {
+      "voice": "verse",
+      "file": "samples/verse.mp3",
+      "sha256": "8ebef099a1b80e05f078ffb8da0d6d74d4caab53b4ca795499536cc24e522a90",
+      "durationSeconds": 9.36,
+      "compilationStartSeconds": 88.1
+    },
+    {
+      "voice": "marin",
+      "file": "samples/marin.mp3",
+      "sha256": "c497a7004680a2ccab7baa164d16e0a74f77e8d823a884331240a10d8bba762e",
+      "durationSeconds": 7.656,
+      "compilationStartSeconds": 98.11
+    },
+    {
+      "voice": "cedar",
+      "file": "samples/cedar.mp3",
+      "sha256": "477788cba6b4da21c8d0d49df8fabf34d301ac9b3949b5e8e7a9ca6e6841b775",
+      "durationSeconds": 9.312,
+      "compilationStartSeconds": 106.416
+    }
+  ]
+}

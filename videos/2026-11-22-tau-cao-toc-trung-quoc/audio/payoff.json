@@ -1,0 +1,200 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Vậy con số ba trăm năm mươi là kết quả của cả hệ thống. Đoàn tàu tạo ra tốc độ. Đường ray và tín hiệu giúp tốc độ đó vận hành được.",
+  "sha256": "26ba42ae5a5c9941acc2234cf1bfe3cb22053312de52b53d61675c813f0bfcac",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 2678750,
+      "text": "Vậy"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3678750,
+      "duration": 2008750,
+      "text": "con"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5687500,
+      "duration": 2120410,
+      "text": "số"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7807910,
+      "duration": 1674160,
+      "text": "ba"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9482080,
+      "duration": 2455410,
+      "text": "trăm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11937500,
+      "duration": 1004580,
+      "text": "năm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12942080,
+      "duration": 2566660,
+      "text": "mươi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15508750,
+      "duration": 1339160,
+      "text": "là"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16848330,
+      "duration": 2008750,
+      "text": "kết"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 18857080,
+      "duration": 2455410,
+      "text": "quả"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21312500,
+      "duration": 1339160,
+      "text": "của"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22651660,
+      "duration": 1674160,
+      "text": "cả"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 24325830,
+      "duration": 1562500,
+      "text": "hệ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 25888330,
+      "duration": 3236660,
+      "text": "thống"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36549160,
+      "duration": 2901660,
+      "text": "Đoàn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39450830,
+      "duration": 2120410,
+      "text": "tàu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41571250,
+      "duration": 2678750,
+      "text": "tạo"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44250000,
+      "duration": 1450830,
+      "text": "ra"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45700830,
+      "duration": 1785830,
+      "text": "tốc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47486660,
+      "duration": 2790000,
+      "text": "độ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57754580,
+      "duration": 2790000,
+      "text": "Đường"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60544580,
+      "duration": 1897500,
+      "text": "ray"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62442080,
+      "duration": 1004160,
+      "text": "và"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63446250,
+      "duration": 2343750,
+      "text": "tín"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65790000,
+      "duration": 1785830,
+      "text": "hiệu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67575830,
+      "duration": 1897500,
+      "text": "giúp"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69473330,
+      "duration": 1674160,
+      "text": "tốc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71147500,
+      "duration": 1897080,
+      "text": "độ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73044580,
+      "duration": 2232080,
+      "text": "đó"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75276660,
+      "duration": 1897500,
+      "text": "vận"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77174160,
+      "duration": 1674160,
+      "text": "hành"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78848330,
+      "duration": 2008750,
+      "text": "được"
+    }
+  ]
+}

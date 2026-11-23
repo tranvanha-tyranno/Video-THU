@@ -1,0 +1,104 @@
+{
+  "sha256": "b12d18aa68517e09f8ca4c8767eea5da359c5bd249a788da5213c39a0f6558ed",
+  "durationSeconds": 600.0,
+  "decodedFrames": 14400,
+  "audioMeasurement": "Integrated loudness:\r\n    I:         -16.1 LUFS\r\n    Threshold: -26.4 LUFS\r\n\r\n  Loudness range:\r\n    LRA:         2.3 LU\r\n    Threshold: -36.5 LUFS\r\n    LRA low:   -17.6 LUFS\r\n    LRA high:  -15.3 LUFS\r\n\r\n  True peak:\r\n    Peak:       -1.8 dBFS\r\n[out#0/null @ 000001198378bd40] video:0KiB audio:56250KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\r\nsize=N/A time=00:10:00.00 bitrate=N/A speed=98.8x elapsed=0:00:06.07",
+  "visualSamples": [
+    {
+      "id": "hook",
+      "frame": 228
+    },
+    {
+      "id": "scope",
+      "frame": 853
+    },
+    {
+      "id": "shenzhen",
+      "frame": 1269
+    },
+    {
+      "id": "map_bridge",
+      "frame": 1818
+    },
+    {
+      "id": "summit",
+      "frame": 2408
+    },
+    {
+      "id": "handover",
+      "frame": 2972
+    },
+    {
+      "id": "people",
+      "frame": 3564
+    },
+    {
+      "id": "trade_surge",
+      "frame": 4170
+    },
+    {
+      "id": "trade_gap",
+      "frame": 4759
+    },
+    {
+      "id": "supply_chain",
+      "frame": 5433
+    },
+    {
+      "id": "exports_vn",
+      "frame": 6072
+    },
+    {
+      "id": "gba_link",
+      "frame": 6629
+    },
+    {
+      "id": "rail_bottleneck",
+      "frame": 7221
+    },
+    {
+      "id": "rail_map",
+      "frame": 7830
+    },
+    {
+      "id": "rail_specs",
+      "frame": 8399
+    },
+    {
+      "id": "rail_network",
+      "frame": 9079
+    },
+    {
+      "id": "port_hai_phong",
+      "frame": 9648
+    },
+    {
+      "id": "border_photo",
+      "frame": 10228
+    },
+    {
+      "id": "smart_border",
+      "frame": 10867
+    },
+    {
+      "id": "phu_quoc_map",
+      "frame": 11515
+    },
+    {
+      "id": "multilateral",
+      "frame": 12189
+    },
+    {
+      "id": "challenges",
+      "frame": 12845
+    },
+    {
+      "id": "recap",
+      "frame": 13489
+    },
+    {
+      "id": "cta",
+      "frame": 14206
+    }
+  ]
+}

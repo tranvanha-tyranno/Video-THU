@@ -1,0 +1,242 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Còn để xây được nhiều tuyến, tiêu chuẩn thiết kế cho phép lặp lại cách thi công. Một dầm cầu đúc sẵn được chở tới, đặt lên trụ, rồi đội thi công chuyển thiết bị sang nhịp kế tiếp.",
+  "sha256": "ca190eddba08a841df1674a454366a389873993024c8e3d05795a0fe36637b34",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 2678750,
+      "text": "Còn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3678750,
+      "duration": 892500,
+      "text": "để"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4571250,
+      "duration": 1674160,
+      "text": "xây"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6245410,
+      "duration": 1450830,
+      "text": "được"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7696250,
+      "duration": 1897500,
+      "text": "nhiều"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9593750,
+      "duration": 3460000,
+      "text": "tuyến"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14504580,
+      "duration": 2343750,
+      "text": "tiêu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16848330,
+      "duration": 2232080,
+      "text": "chuẩn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19080410,
+      "duration": 1450830,
+      "text": "thiết"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20531250,
+      "duration": 1897500,
+      "text": "kế"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 22428750,
+      "duration": 1339160,
+      "text": "cho"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 23767910,
+      "duration": 2232080,
+      "text": "phép"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 26000000,
+      "duration": 2008750,
+      "text": "lặp"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 28008750,
+      "duration": 1785830,
+      "text": "lại"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 29794580,
+      "duration": 2008750,
+      "text": "cách"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31803750,
+      "duration": 1339160,
+      "text": "thi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33142910,
+      "duration": 2901660,
+      "text": "công"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43468750,
+      "duration": 3236660,
+      "text": "Một"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 46705410,
+      "duration": 2232080,
+      "text": "dầm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 48937500,
+      "duration": 1897500,
+      "text": "cầu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50835000,
+      "duration": 1339160,
+      "text": "đúc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 52174160,
+      "duration": 2678330,
+      "text": "sẵn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54852500,
+      "duration": 1227500,
+      "text": "được"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 56080410,
+      "duration": 1562500,
+      "text": "chở"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57642910,
+      "duration": 3571250,
+      "text": "tới"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62665000,
+      "duration": 2120410,
+      "text": "đặt"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 64785830,
+      "duration": 1897080,
+      "text": "lên"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66682910,
+      "duration": 3348330,
+      "text": "trụ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71593750,
+      "duration": 2120410,
+      "text": "rồi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73714160,
+      "duration": 1674160,
+      "text": "đội"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 75388330,
+      "duration": 1562500,
+      "text": "thi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76950830,
+      "duration": 1674160,
+      "text": "công"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 78625000,
+      "duration": 1897500,
+      "text": "chuyển"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80522500,
+      "duration": 2008750,
+      "text": "thiết"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82531250,
+      "duration": 1562500,
+      "text": "bị"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84093750,
+      "duration": 2120410,
+      "text": "sang"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 86214160,
+      "duration": 1785830,
+      "text": "nhịp"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88000000,
+      "duration": 1562500,
+      "text": "kế"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89562500,
+      "duration": 2455410,
+      "text": "tiếp"
+    }
+  ]
+}

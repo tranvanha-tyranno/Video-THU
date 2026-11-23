@@ -1,0 +1,152 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Bạn muốn xem tiếp về nhà ga hay cách xây cầu cạn? Bình luận và đăng ký kênh để xem video tiếp theo nhé.",
+  "sha256": "5505903799548e3444757ea8574995f07901d174aa26bee97b236c7513d806da",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 2678750,
+      "text": "Bạn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 3678750,
+      "duration": 1562500,
+      "text": "muốn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 5241250,
+      "duration": 2120410,
+      "text": "xem"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7361660,
+      "duration": 2343750,
+      "text": "tiếp"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 9705410,
+      "duration": 1562500,
+      "text": "về"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11267910,
+      "duration": 1897080,
+      "text": "nhà"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13165000,
+      "duration": 2120410,
+      "text": "ga"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15285830,
+      "duration": 1227500,
+      "text": "hay"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 16513330,
+      "duration": 1450830,
+      "text": "cách"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17964160,
+      "duration": 1785830,
+      "text": "xây"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19750000,
+      "duration": 2008750,
+      "text": "cầu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 21758750,
+      "duration": 3460000,
+      "text": "cạn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 32642910,
+      "duration": 2120410,
+      "text": "Bình"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34763330,
+      "duration": 2232080,
+      "text": "luận"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 36995410,
+      "duration": 1004580,
+      "text": "và"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38000000,
+      "duration": 1674160,
+      "text": "đăng"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39674160,
+      "duration": 1450830,
+      "text": "ký"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41125000,
+      "duration": 2678750,
+      "text": "kênh"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43803750,
+      "duration": 1227500,
+      "text": "để"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45031250,
+      "duration": 2567080,
+      "text": "xem"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47598330,
+      "duration": 3236660,
+      "text": "video"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 50835000,
+      "duration": 2455000,
+      "text": "tiếp"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 53290000,
+      "duration": 1785830,
+      "text": "theo"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55075830,
+      "duration": 2678750,
+      "text": "nhé"
+    }
+  ]
+}

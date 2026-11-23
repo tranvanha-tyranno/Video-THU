@@ -1,0 +1,66 @@
+{
+  "durationSeconds": 75.5,
+  "decodedFrames": 2265,
+  "video": "1920x1080 H.264, yuvj420p (full range), 30 fps",
+  "audio": "AAC 48 kHz, aligned with the prepared Vietnamese narration",
+  "sceneChecks": [
+    {
+      "id": "hook",
+      "start": 0,
+      "frames": 244,
+      "startSeconds": 0.0,
+      "speechRms": 3327.6
+    },
+    {
+      "id": "disclaimer",
+      "start": 244,
+      "frames": 277,
+      "startSeconds": 8.13,
+      "speechRms": 3162.0
+    },
+    {
+      "id": "route",
+      "start": 521,
+      "frames": 308,
+      "startSeconds": 17.37,
+      "speechRms": 3319.2
+    },
+    {
+      "id": "track",
+      "start": 829,
+      "frames": 325,
+      "startSeconds": 27.63,
+      "speechRms": 3158.2
+    },
+    {
+      "id": "signal",
+      "start": 1154,
+      "frames": 317,
+      "startSeconds": 38.47,
+      "speechRms": 3116.1
+    },
+    {
+      "id": "build",
+      "start": 1471,
+      "frames": 306,
+      "startSeconds": 49.03,
+      "speechRms": 3143.7
+    },
+    {
+      "id": "payoff",
+      "start": 1777,
+      "frames": 272,
+      "startSeconds": 59.23,
+      "speechRms": 3072.0
+    },
+    {
+      "id": "cta",
+      "start": 2049,
+      "frames": 216,
+      "startSeconds": 68.3,
+      "speechRms": 2904.6
+    }
+  ],
+  "samples": "qa-frames.jpg",
+  "sha256": "911ddf67cb282de95704b7ba098545170dff80009a9e9b87eb4d5d18ce512c00"
+}

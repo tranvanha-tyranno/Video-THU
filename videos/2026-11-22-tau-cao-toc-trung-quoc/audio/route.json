@@ -1,0 +1,254 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Lấy tuyến Bắc Kinh, Thiên Tân làm ví dụ. Khai trương năm hai nghìn không trăm linh tám, đây là tuyến cao tốc đầu tiên ở Trung Quốc được thiết kế cho ba trăm năm mươi ki lô mét một giờ.",
+  "sha256": "e92792decf943a996eace6ac7adaadf12366e486893bf7e9f91085f931fabe18",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 3013330,
+      "text": "Lấy"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4013330,
+      "duration": 2567080,
+      "text": "tuyến"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6580410,
+      "duration": 1339160,
+      "text": "Bắc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 7919580,
+      "duration": 3348330,
+      "text": "Kinh"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 12607080,
+      "duration": 2343750,
+      "text": "Thiên"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 14950830,
+      "duration": 2232080,
+      "text": "Tân"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17182910,
+      "duration": 2008750,
+      "text": "làm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 19192080,
+      "duration": 1785410,
+      "text": "ví"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 20977500,
+      "duration": 3125000,
+      "text": "dụ"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31526660,
+      "duration": 2567080,
+      "text": "Khai"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 34093750,
+      "duration": 3125000,
+      "text": "trương"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37218750,
+      "duration": 1227500,
+      "text": "năm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38446250,
+      "duration": 1339160,
+      "text": "hai"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 39785830,
+      "duration": 2232080,
+      "text": "nghìn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 42017910,
+      "duration": 2008750,
+      "text": "không"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 44026660,
+      "duration": 1562500,
+      "text": "trăm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45589160,
+      "duration": 1562500,
+      "text": "linh"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47151660,
+      "duration": 3125000,
+      "text": "tám"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 51950830,
+      "duration": 2343750,
+      "text": "đây"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 54294580,
+      "duration": 1004580,
+      "text": "là"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 55299160,
+      "duration": 2008750,
+      "text": "tuyến"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57307910,
+      "duration": 1562500,
+      "text": "cao"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 58870410,
+      "duration": 1674160,
+      "text": "tốc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 60544580,
+      "duration": 1562500,
+      "text": "đầu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62107080,
+      "duration": 3460000,
+      "text": "tiên"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65567080,
+      "duration": 669580,
+      "text": "ở"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 66236660,
+      "duration": 1785830,
+      "text": "Trung"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 68022500,
+      "duration": 1897080,
+      "text": "Quốc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69919580,
+      "duration": 1339160,
+      "text": "được"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71258750,
+      "duration": 1450830,
+      "text": "thiết"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 72710000,
+      "duration": 1897080,
+      "text": "kế"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 74607080,
+      "duration": 1562500,
+      "text": "cho"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 76169580,
+      "duration": 1785830,
+      "text": "ba"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77955410,
+      "duration": 2678330,
+      "text": "trăm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 80633750,
+      "duration": 1004580,
+      "text": "năm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81638330,
+      "duration": 1116250,
+      "text": "mươi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 82754580,
+      "duration": 1562500,
+      "text": "ki"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 84317080,
+      "duration": 1450830,
+      "text": "lô"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85767910,
+      "duration": 2455410,
+      "text": "mét"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 88223330,
+      "duration": 1562500,
+      "text": "một"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89785830,
+      "duration": 2678750,
+      "text": "giờ"
+    }
+  ]
+}

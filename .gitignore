@@ -1,0 +1,90 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/*.db
+data/test-*
+data/media/
+frontend/node_modules/
+frontend/.next/
+.env
+.secrets/
+.cache/
+node_modules/
+
+# Authentication, local account state and browser profiles
+.env.*
+!.env.example
+!.env.*.example
+*.dpapi.xml
+data/studio/
+data/studio-logs/
+**/muse2api-profiles/
+**/accounts.json
+**/cookies.json
+**/auth.json
+
+# Local databases, generated caches and process output
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+
+# Local browser sessions, previews and generated exports
+/.playwright-cli/
+/.remotion/
+/output/
+
+# Explainer runtime dependencies and generated bundles
+/workflows/reference-video/cinematic/build/
+/workflows/reference-video/cinematic/.remotion/
+/workflows/reference-video/cinematic/public/**
+!/workflows/reference-video/cinematic/public/**/
+!/workflows/reference-video/cinematic/public/**/*.json
+
+# Local evidence ledger depends on private rendered batches
+/workflows/reference-video/learning-data/
+
+# Generated renderer bundles contain copies of source media and dependencies.
+# Keep original assets, exports, source snapshots and render/QA receipts.
+/videos/**/bundle/
+/videos/**/bundle-*/
+/videos/**/*-bundle/
+/videos/**/*-bundle-*/
+/videos/**/production-public/
+/videos/**/render-public/
+/videos/**/render-public-*/
+
+# Downloaded third-party repositories/archives; keep acquisition and study reports.
+/docs/video-skills/**/sources/
+/.agents/skills/remotion-best-practices/
+/.agents/skills/ai-video-generation/
+/.agents/skills/animated-infographic/
+/.agents/skills/animation-principles/
+/.agents/skills/chart-animation/
+/.agents/skills/diagram-animation/
+/.agents/skills/explainer-video/
+/.agents/skills/kinetic-typography/
+/.agents/skills/motion-art-direction/
+/.agents/skills/shot-composition/
+/.agents/skills/threejs-animation/
+
+# Raw downloaded SFX pages embed third-party website access tokens.
+# Source/license URLs and receipts are retained; original HTML remains local.
+/videos/**/research/sfx-source-pages/
+
+# Video files remain local; publish source only.
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.m4v
+*.mpeg
+*.mpg
+*.mts
+*.m2ts

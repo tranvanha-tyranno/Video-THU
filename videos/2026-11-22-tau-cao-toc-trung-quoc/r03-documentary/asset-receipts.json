@@ -1,0 +1,42 @@
+[
+  {
+    "asset": "shanghai-train.jpg",
+    "creator": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:201806_CR400AF-2016_operates_as_G6_Departs_from_Shanghai_Station.jpg",
+    "use": "Referenced as archival footage of Shanghai in opening. Pan, crop and text overlay.",
+    "sha256": "6716700d8c1dea89372b7b07865244a4c1d323e299f32e9191176da1c6eaf079"
+  },
+  {
+    "asset": "shenzhen-train.mp4",
+    "creator": "LayG Traveller",
+    "license": "Pexels License",
+    "source": "https://www.pexels.com/video/shenzhen-high-speed-train-interior-journey-35715444/",
+    "use": "Native playback of local nine-second derivative, silent and overlaid. Context labeled Shenzhen.",
+    "sha256": "6e6c163ee4888f103a2264e2d4a7fab0b49d90ad5089d1075d1104b17b00a139"
+  },
+  {
+    "asset": "china-overview.jpg",
+    "creator": "NASA / Blue Marble",
+    "license": "NASA imagery",
+    "source": "../r02-map/map-sources.json",
+    "use": "Identical local GIBS mosaic and geographic projection.",
+    "sha256": "f69e114fcf0301512c7aacf3cdd9efc7ad3cee810484584f3008277cbe1262ed"
+  },
+  {
+    "asset": "beijing-tianjin.jpg",
+    "creator": "NASA / Blue Marble",
+    "license": "NASA imagery",
+    "source": "../r02-map/map-sources.json",
+    "use": "Identical local GIBS mosaic with generalized direction through stations.",
+    "sha256": "1dc904c698b00de56d78bc160d5d262b1c5701f0b9f3afd65790615c9c8845ef"
+  },
+  {
+    "asset": "narration.wav",
+    "creator": "Microsoft Edge TTS",
+    "license": "Existing project take",
+    "source": "../audio/",
+    "use": "Exact voice and timing recovered from the original batch.",
+    "sha256": "e30b6290a2cf4fe4bab48c071ab7a0285d3eb356ac47fb089ffd7e80e897f981"
+  }
+]

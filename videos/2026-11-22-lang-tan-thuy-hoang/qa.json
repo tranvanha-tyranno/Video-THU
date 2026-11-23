@@ -1,0 +1,114 @@
+{
+  "sha256": "8f32d3edefc2e07fa0eaa2600a264eb2e959927d66d72ae666aab39fef1eb1e6",
+  "durationSeconds": 600.0,
+  "decodedFrames": 14400,
+  "audioMeasurement": "Integrated loudness:\r\n    I:         -16.2 LUFS\r\n    Threshold: -26.4 LUFS\r\n\r\n  Loudness range:\r\n    LRA:         2.3 LU\r\n    Threshold: -36.7 LUFS\r\n    LRA low:   -17.8 LUFS\r\n    LRA high:  -15.5 LUFS\r\n\r\n  True peak:\r\n    Peak:       -1.8 dBFS\r\n[out#0/null @ 000002953e7bb940] video:0KiB audio:56250KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\r\nsize=N/A time=00:10:00.00 bitrate=N/A speed=97.2x elapsed=0:00:06.17",
+  "visualSamples": [
+    {
+      "id": "hook",
+      "frame": 241
+    },
+    {
+      "id": "scope",
+      "frame": 855
+    },
+    {
+      "id": "who",
+      "frame": 1250
+    },
+    {
+      "id": "map",
+      "frame": 1879
+    },
+    {
+      "id": "complex",
+      "frame": 2453
+    },
+    {
+      "id": "discovery",
+      "frame": 3069
+    },
+    {
+      "id": "pit1",
+      "frame": 3640
+    },
+    {
+      "id": "pit2",
+      "frame": 4230
+    },
+    {
+      "id": "pit3",
+      "frame": 4851
+    },
+    {
+      "id": "faces",
+      "frame": 5420
+    },
+    {
+      "id": "making",
+      "frame": 6033
+    },
+    {
+      "id": "color",
+      "frame": 6627
+    },
+    {
+      "id": "craft",
+      "frame": 7271
+    },
+    {
+      "id": "chariot",
+      "frame": 7939
+    },
+    {
+      "id": "other",
+      "frame": 8574
+    },
+    {
+      "id": "mound",
+      "frame": 9253
+    },
+    {
+      "id": "chronicle",
+      "frame": 9848
+    },
+    {
+      "id": "mercury",
+      "frame": 10477
+    },
+    {
+      "id": "survey",
+      "frame": 11097
+    },
+    {
+      "id": "conserve",
+      "frame": 11708
+    },
+    {
+      "id": "restore",
+      "frame": 12345
+    },
+    {
+      "id": "unesco",
+      "frame": 12973
+    },
+    {
+      "id": "recap",
+      "frame": 13608
+    },
+    {
+      "id": "cta",
+      "frame": 14210
+    }
+  ],
+  "reviewEdits": [
+    [
+      0,
+      198
+    ],
+    [
+      9210,
+      9604
+    ]
+  ]
+}

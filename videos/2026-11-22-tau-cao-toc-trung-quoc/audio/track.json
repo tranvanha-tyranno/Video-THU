@@ -1,0 +1,236 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "+12%",
+  "text": "Mắt xích đầu tiên nằm dưới bánh tàu. Đường ray cần những khúc cua thoải và lối đi riêng. Cầu cạn và đường hầm giúp giãn đường cong, đồng thời tách tàu khỏi người và xe bên dưới.",
+  "sha256": "cc343b370ebf0a4365e8ed41a0529682015cb31d825806f738d34e302baa081d",
+  "words": [
+    {
+      "type": "WordBoundary",
+      "offset": 1000000,
+      "duration": 3013330,
+      "text": "Mắt"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 4013330,
+      "duration": 2120410,
+      "text": "xích"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 6133750,
+      "duration": 2008750,
+      "text": "đầu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 8142910,
+      "duration": 3125000,
+      "text": "tiên"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 11267910,
+      "duration": 2120410,
+      "text": "nằm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 13388330,
+      "duration": 1785830,
+      "text": "dưới"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 15174160,
+      "duration": 2008750,
+      "text": "bánh"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 17182910,
+      "duration": 2678750,
+      "text": "tàu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 27285830,
+      "duration": 2901660,
+      "text": "Đường"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 30187500,
+      "duration": 1339160,
+      "text": "ray"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 31526660,
+      "duration": 2343750,
+      "text": "cần"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 33870410,
+      "duration": 1785830,
+      "text": "những"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 35656250,
+      "duration": 1674160,
+      "text": "khúc"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 37330410,
+      "duration": 1339160,
+      "text": "cua"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 38669580,
+      "duration": 3125000,
+      "text": "thoải"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 41794580,
+      "duration": 1674160,
+      "text": "và"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 43468750,
+      "duration": 2120410,
+      "text": "lối"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 45589160,
+      "duration": 1450830,
+      "text": "đi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 47040000,
+      "duration": 3013330,
+      "text": "riêng"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 57531250,
+      "duration": 2343750,
+      "text": "Cầu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 59875000,
+      "duration": 2901660,
+      "text": "cạn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 62776660,
+      "duration": 1004580,
+      "text": "và"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 63781250,
+      "duration": 2008750,
+      "text": "đường"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 65790000,
+      "duration": 1897500,
+      "text": "hầm"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 67687500,
+      "duration": 1674160,
+      "text": "giúp"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 69361660,
+      "duration": 2120410,
+      "text": "giãn"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 71482080,
+      "duration": 1562500,
+      "text": "đường"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 73044580,
+      "duration": 3125000,
+      "text": "cong"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 77732080,
+      "duration": 2120410,
+      "text": "đồng"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 79852500,
+      "duration": 1674160,
+      "text": "thời"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 81526660,
+      "duration": 1785830,
+      "text": "tách"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 83312500,
+      "duration": 1897500,
+      "text": "tàu"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 85210000,
+      "duration": 1897080,
+      "text": "khỏi"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 87107080,
+      "duration": 2567080,
+      "text": "người"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 89674160,
+      "duration": 1339160,
+      "text": "và"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 91013330,
+      "duration": 2120410,
+      "text": "xe"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 93133750,
+      "duration": 1785830,
+      "text": "bên"
+    },
+    {
+      "type": "WordBoundary",
+      "offset": 94919580,
+      "duration": 3236660,
+      "text": "dưới"
+    }
+  ]
+}
